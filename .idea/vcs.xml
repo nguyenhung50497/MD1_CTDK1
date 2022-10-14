@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MD1_ifElse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MD1_ktraNamNhuan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MD1_ltIfElseIf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MD1_ltSwitchCase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MD1_toanTu3Ngoi" vcs="Git" />
+  </component>
+</project>
